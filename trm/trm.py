@@ -29,10 +29,10 @@ def get_random_explosion():
 def play_scream_and_explosion():
 	# Play scream
 	scream = get_random_scream()
+	explosion = get_random_explosion()
 	playsound3.playsound(scream)
 
 	# Play explosion
-	explosion = get_random_explosion()
 	playsound3.playsound(explosion)
 
 def main():

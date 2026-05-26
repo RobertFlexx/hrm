@@ -1,14 +1,28 @@
-# Terrified RM
-> Make them feel pain because your evil and stuff.
+# Horrified RM
+
+> Deletes files, but first they scream in terror and explode violently because murder is kewl
 
 ## Usage
+
 ```bash
-trm <1file> <2file> <3file> ...
+hrm <file1> <file2> <file3> ...
 ```
 
-## NOTICE
-I do not own any of the sounds within this tool. I have found them for free on myinstants. If you have the rights to any of the sounds and want them removed, please contact me and I will remove them immediately.
+## Features
 
+* random scream and explosion sounds
+* recursive directory deletion
+* multi threaded audio bullshit
+* native compiled binary
+* surprisingly fast for something this stupid
+
+## Notice
+
+I do not own any of the audio used by this project.
+Sound effects were sourced from publicly available audio sites such as MyInstants.
+
+If you own the rights to any included sound and would like it removed, contact me and it will be removed immediately.
 
 ## License
+
 WTFPL
